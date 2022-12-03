@@ -1,0 +1,12 @@
+/* Centrar la imagen en el centro de la página. */
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 500px;
+}
+
+img {
+    width: 700px;
+    height: auto;
+}
